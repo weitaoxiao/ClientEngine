@@ -22,3 +22,7 @@ Then , the form is inherited UIForm, the following code:
 ```
 
 以上是一些参考代码，如有不明白，加入QQ群：302961959
+
+##Power By 
+
+![mahua](http://b310-img.qiniudn.com/web/logo.png)

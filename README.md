@@ -23,3 +23,8 @@ Then , the form is inherited UIForm, the following code:
 ```
 
 Is a simple to define a custom form , it's so cool,is it? 
+
+
+##Power By 
+
+![mahua](http://b310-img.qiniudn.com/web/logo.png)
