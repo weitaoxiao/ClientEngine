@@ -1,4 +1,4 @@
-### ClientEngine
+### ClientEngine [![Build Status](https://travis-ci.org/weitaoxiao/ClientEngine.svg)](https://travis-ci.org/weitaoxiao/ClientEngine)
 ---
 
 这是一个C#皮肤组件 ,项目附带两个Demo, 你可以根据这两个例子量身定做你需要的UI皮肤

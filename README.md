@@ -1,4 +1,4 @@
-### ClientEngine
+### ClientEngine  [![Build Status](https://travis-ci.org/weitaoxiao/ClientEngine.svg)](https://travis-ci.org/weitaoxiao/ClientEngine)
 ---
 [中文文档](README_cn.md)
 
